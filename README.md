@@ -16,7 +16,10 @@ Clean interface, zero extra clicks.
 2. Click here to install the script via GreasyFork: [ChatGPT Sidebar Auto-Collapse](https://greasyfork.org/zh-CN/scripts/551091-chatgpt-sidebar-auto-collapse-cn-precise)  
 
 ### 📷 Demo
-*(screenshot before/after collapse — add your images here)*
+#### Expanded
+![Expanded](assets/unfolded.png)
+#### Collapsed
+![Collapsed](assets/folded.png)
 
 ### ⚖️ License
 MIT License — free to use, modify, and share.  
@@ -35,7 +38,10 @@ MIT License — free to use, modify, and share.
 2. 点击 GreasyFork 安装脚本：[ChatGPT Sidebar Auto-Collapse](https://greasyfork.org/zh-CN/scripts/551091-chatgpt-sidebar-auto-collapse-cn-precise)  
 
 ### 📷 效果截图
-*(这里放“展开 / 折叠”的对比图)*
+#### 展开状态
+![Expanded](assets/unfolded.png)
+#### 折叠状态
+![Collapsed](assets/folded.png)
 
 ### ⚖️ 许可证
 MIT 协议 — 可自由使用、修改和分享。  
